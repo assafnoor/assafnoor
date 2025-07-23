@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noor Assaf</h1>
-<h3 align="center">Informatics Engineer | Software Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Back End Developer | Full Stack Developer</h3>
 
 <p align="center">
-I'm an Informatics Engineer with ~4 years of experience in software development. Passionate about designing scalable systems, solving complex problems, and building high-quality solutions using modern technologies and solid architecture principles.
+I'm an Informatics Engineer with ~3 years of experience in software development. Passionate about designing scalable systems, solving complex problems, and building high-quality solutions using modern technologies and solid architecture principles.
 </p>
 
 ---
