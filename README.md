@@ -2,19 +2,27 @@
 <h3 align="center">Software Engineer | Back End Developer | Full Stack Developer</h3>
 
 <p align="center">
-I'm an Informatics Engineer with ~3 years of experience in software development. Passionate about designing scalable systems, solving complex problems, and building high-quality solutions using modern technologies and solid architecture principles.
+  <img src="https://komarev.com/ghpvc/?username=assafnoor&label=Profile%20views&color=0e75b6&style=flat" alt="assafnoor" />
+</p>
+
+<p align="center">
+I'm an Informatics Engineer with ~3 years of experience in software development.  
+Passionate about designing scalable systems, solving complex problems, and building high-quality solutions using modern technologies and clean architecture principles.
 </p>
 
 ---
 
+### 🚀 About Me
+
 - 🌱 Currently learning: **Software Architecture, Microservices, DDD**
 - 💡 Tech focus: **.NET, Angular, Design Patterns, Data Structures, Algorithms**
-- 📬 Reach me at: **noorassaf331@gmail.com**
+- 📫 Reach me at: **noorassaf331@gmail.com**
 - 📄 [View my resume](https://docs.google.com/document/d/10wTfyT4QYUE-5C7jrDg7DapUfl1T8dRnqtepM8bx8ZU/edit?usp=sharing)
 
 ---
 
-<h3 align="left">Connect with me</h3>
+### 🌐 Connect with me
+
 <p align="left">
   <a href="https://linkedin.com/in/noorassaf" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -23,7 +31,8 @@ I'm an Informatics Engineer with ~3 years of experience in software development.
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+### 🛠️ Languages & Tools
+
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
@@ -40,4 +49,12 @@ I'm an Informatics Engineer with ~3 years of experience in software development.
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assafnoor&show_icons=true&locale=en&layout=compact" alt="assafnoor" />
 </p>
